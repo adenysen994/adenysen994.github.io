@@ -1,0 +1,11 @@
+{
+  "Snickers" : [
+    {
+      "type": "Bar",
+      "name": "Snickers",
+      "price": "1$",
+      "description": "lorem",
+      "image": "http://fozzyshop.com.ua/110084-home_default/batonchik-snickers-s-arakhisom-v-molochnom-shokolade.jpg"
+
+    }]
+}

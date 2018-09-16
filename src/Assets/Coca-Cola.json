@@ -1,0 +1,10 @@
+{
+  "Coca-Cola" : [
+    {
+      "type": "Drink",
+      "name": "Coca-cola",
+      "price": "1$",
+      "description": "lorem",
+      "image": "http://fozzyshop.com.ua/68845-thickbox_default/napitok-coca-cola-banka.jpg"
+    }]
+}
