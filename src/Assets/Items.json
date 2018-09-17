@@ -1,0 +1,91 @@
+{
+  "Items" : [
+    {
+      "type": "Drink",
+      "name": "Coca-Cola",
+      "price": "1$",
+      "description": "lorem cola",
+      "image": "http://fozzyshop.com.ua/68845-thickbox_default/napitok-coca-cola-banka.jpg",
+      "id": "1"
+    },
+    {
+      "type": "Drink",
+      "name": "Pepsi",
+      "price": "1$",
+      "description": "lorem pepsi",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/71GTXhmoc6L._SY355_.jpg",
+      "id": "2"
+    },
+    {
+      "type": "Drink",
+      "name": "Fanta",
+      "price": "1$",
+      "description": "lorem fanta",
+      "image": "https://static.detmir.st/medias/sys_master/images/images/hb5/h33/9785005965342.png",
+      "id": "3"
+    },
+    {
+      "type": "Cookies",
+      "name": "Oreo",
+      "price": "1$",
+      "description": "lorem oreo",
+      "image": "https://i5.walmartimages.ca/images/Enlarge/753/128/999999-55000753128.jpg",
+      "id": "4"
+
+    },
+    {
+      "type": "Bar",
+      "name": "Snickers",
+      "price": "1$",
+      "description": "lorem snickers",
+      "image": "http://fozzyshop.com.ua/110084-home_default/batonchik-snickers-s-arakhisom-v-molochnom-shokolade.jpg",
+      "id": "5"
+
+    },
+    {
+      "type": "Chips",
+      "name": "Lays",
+      "price": "1$",
+      "description": "lorem lays",
+      "image": "https://img2.zakaz.ua/20151012.1444640300.ad72436478c_2015-10-12_Yana/20151012.1444640300.SNCPSG10.obj.0.1.jpg.oe.jpg.pf.jpg.1350nowm.jpg.1350x.jpg",
+      "id": "6"
+
+    },
+    {
+      "type": "Drink",
+      "name": "Nestea",
+      "price": "1$",
+      "description": "lorem nestea",
+      "image": "https://bgburgerbar.com/wp-content/uploads/2017/07/nestea.jpg",
+      "id": "7"
+
+    },
+    {
+      "type": "Drink",
+      "name": "Red Bull",
+      "price": "1$",
+      "description": "lorem red bull",
+      "image": "http://fozzyshop.com.ua/72362-thickbox_default/napitok-energeticheskij-red-bull.jpg",
+      "id": "8"
+
+    },
+    {
+      "type": "Bar",
+      "name": "Bueno",
+      "price": "1$",
+      "description": "lorem kinder bueno",
+      "image": "https://okwine.ua/components/com_jshopping/files/img_products/full_shokoladnyj-batonchik-kinder-bueno-kinder-bueno-2-30g.jpg",
+      "id": "9"
+
+    },
+    {
+      "type": "Chips",
+      "name": "Pringles",
+      "price": "1$",
+      "description": "lorem pringes",
+      "image": "https://www.britishcornershop.co.uk/img/large/QWOP352.jpg",
+      "id": "10"
+
+    }
+  ]
+}
