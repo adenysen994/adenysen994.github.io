@@ -1,6 +1,5 @@
 <template>
-    <v-container fluid class="back">
-    </v-container>
+    <v-container fluid class="back"></v-container>
 </template>
 
 <script>
